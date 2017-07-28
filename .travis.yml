@@ -1,0 +1,3 @@
+languaje: php
+php: 5.5
+scrip: phpunit test.php
